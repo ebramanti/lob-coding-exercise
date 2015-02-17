@@ -1,0 +1,11 @@
+{
+  "name": "thumb_coding_challenge",
+  "version": "1.0.0",
+  "description": "Coding challenge for Lob Software Engineer position.",
+  "main": "index.js",
+  "author": "Edward Bramanti",
+  "dependencies": {
+    "hapi": "^6.5.1",
+    "joi": "^4.7.0"
+  }
+}
